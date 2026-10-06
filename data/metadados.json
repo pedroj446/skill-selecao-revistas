@@ -1,0 +1,22 @@
+{
+  "gerado_em": "2026-10-06",
+  "fontes": {
+    "qualis": "qualis_2021_2024.xlsx",
+    "doaj": "doaj_20260905.csv",
+    "scimago": "scimago_2025.csv",
+    "springer": "springer_capes_20251231.pdf"
+  },
+  "n_revistas": 57195,
+  "n_com_qualis": 30158,
+  "n_com_sjr": 30337,
+  "n_doaj": 23396,
+  "acordos": {
+    "": 52620,
+    "Springer Nature": 1685,
+    "Elsevier (híbridas)": 1534,
+    "Wiley": 1263,
+    "ACS": 83,
+    "Royal Society": 10
+  },
+  "n_springer_lista": 1727
+}

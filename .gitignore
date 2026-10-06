@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+*.skill
+# fontes brutas: grandes demais e com licenças próprias
+fontes/
+*.xlsx
+doaj_journalcsv_*.csv
+scimagojr*.csv
+*.pdf

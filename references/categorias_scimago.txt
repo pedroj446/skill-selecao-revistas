@@ -1,0 +1,311 @@
+# Categorias SCImago 2025 (nome em inglês, nº de revistas)
+Accounting	187
+Acoustics and Ultrasonics	47
+Advanced and Specialized Nursing	73
+Aerospace Engineering	160
+Aging	42
+Agricultural and Biological Sciences (miscellaneous)	467
+Agronomy and Crop Science	429
+Algebra and Number Theory	138
+Analysis	207
+Analytical Chemistry	165
+Anatomy	51
+Anesthesiology and Pain Medicine	147
+Animal Science and Zoology	527
+Anthropology	506
+Applied Mathematics	651
+Applied Microbiology and Biotechnology	133
+Applied Psychology	269
+Aquatic Science	260
+Archeology	379
+Archeology (arts and humanities)	437
+Architecture	201
+Artificial Intelligence	463
+Arts and Humanities (miscellaneous)	786
+Assessment and Diagnosis	13
+Astronomy and Astrophysics	89
+Atmospheric Science	153
+Atomic and Molecular Physics, and Optics	230
+Automotive Engineering	129
+Behavioral Neuroscience	90
+Biochemistry	437
+Biochemistry (medical)	78
+Biochemistry, Genetics and Molecular Biology (miscellaneous)	347
+Bioengineering	160
+Biological Psychiatry	56
+Biomaterials	146
+Biomedical Engineering	328
+Biophysics	157
+Biotechnology	318
+Building and Construction	235
+Business and International Management	448
+Business, Management and Accounting (miscellaneous)	415
+Cancer Research	231
+Cardiology and Cardiovascular Medicine	416
+Care Planning	11
+Catalysis	68
+Cell Biology	292
+Cellular and Molecular Neuroscience	100
+Ceramics and Composites	129
+Chemical Engineering (miscellaneous)	366
+Chemical Health and Safety	19
+Chemistry (miscellaneous)	528
+Chiropractics	10
+Civil and Structural Engineering	410
+Classics	172
+Clinical Biochemistry	126
+Clinical Psychology	323
+Cognitive Neuroscience	124
+Colloid and Surface Chemistry	21
+Communication	499
+Community and Home Care	42
+Complementary and Alternative Medicine	116
+Complementary and Manual Therapy	23
+Computational Mathematics	195
+Computational Mechanics	100
+Computational Theory and Mathematics	189
+Computer Graphics and Computer-Aided Design	107
+Computer Networks and Communications	446
+Computer Science (miscellaneous)	369
+Computer Science Applications	886
+Computer Vision and Pattern Recognition	138
+Computers in Earth Sciences	70
+Condensed Matter Physics	434
+Conservation	111
+Control and Optimization	166
+Control and Systems Engineering	306
+Critical Care Nursing	28
+Critical Care and Intensive Care Medicine	127
+Cultural Studies	1337
+Decision Sciences (miscellaneous)	80
+Demography	132
+Dental Assisting	5
+Dental Hygiene	11
+Dentistry (miscellaneous)	200
+Dermatology	153
+Development	301
+Developmental Biology	77
+Developmental Neuroscience	38
+Developmental and Educational Psychology	373
+Discrete Mathematics and Combinatorics	96
+Drug Discovery	159
+Drug Guides	6
+E-learning	66
+Earth and Planetary Sciences (miscellaneous)	368
+Earth-Surface Processes	182
+Ecological Modeling	47
+Ecology	495
+Ecology, Evolution, Behavior and Systematics	744
+Economic Geology	51
+Economics and Econometrics	747
+Economics, Econometrics and Finance (miscellaneous)	517
+Education	1599
+Electrical and Electronic Engineering	831
+Electrochemistry	65
+Electronic, Optical and Magnetic Materials	282
+Embryology	24
+Emergency Medical Services	18
+Emergency Medicine	114
+Emergency Nursing	32
+Endocrine and Autonomic Systems	24
+Endocrinology	132
+Endocrinology, Diabetes and Metabolism	250
+Energy (miscellaneous)	175
+Energy Engineering and Power Technology	301
+Engineering (miscellaneous)	565
+Environmental Chemistry	155
+Environmental Engineering	225
+Environmental Science (miscellaneous)	524
+Epidemiology	175
+Equine	14
+Experimental and Cognitive Psychology	170
+Family Practice	62
+Filtration and Separation	19
+Finance	339
+Fluid Flow and Transfer Processes	92
+Food Animals	47
+Food Science	426
+Forestry	184
+Fuel Technology	131
+Fundamentals and Skills	16
+Gastroenterology	179
+Gender Studies	213
+Genetics	365
+Genetics (clinical)	102
+Geochemistry and Petrology	161
+Geography, Planning and Development	844
+Geology	327
+Geometry and Topology	115
+Geophysics	171
+Geotechnical Engineering and Engineering Geology	229
+Geriatrics and Gerontology	126
+Gerontology	44
+Global and Planetary Change	125
+Hardware and Architecture	192
+Health (social science)	391
+Health Informatics	157
+Health Information Management	60
+Health Policy	335
+Health Professions (miscellaneous)	118
+Health, Toxicology and Mutagenesis	156
+Hematology	151
+Hepatology	90
+Histology	63
+History	1748
+History and Philosophy of Science	214
+Horticulture	126
+Human Factors and Ergonomics	53
+Human-Computer Interaction	163
+Immunology	245
+Immunology and Allergy	234
+Immunology and Microbiology (miscellaneous)	104
+Industrial Relations	62
+Industrial and Manufacturing Engineering	395
+Infectious Diseases	366
+Information Systems	450
+Information Systems and Management	185
+Inorganic Chemistry	84
+Insect Science	193
+Instrumentation	184
+Internal Medicine	182
+Issues, Ethics and Legal Aspects	52
+LPN and LVN	17
+Law	1095
+Leadership and Management	42
+Library and Information Sciences	286
+Life-span and Life-course Studies	55
+Linguistics and Language	1316
+Literature and Literary Theory	1139
+Logic	40
+Management Information Systems	138
+Management Science and Operations Research	218
+Management of Technology and Innovation	294
+Management, Monitoring, Policy and Law	413
+Marketing	229
+Materials Chemistry	328
+Materials Science (miscellaneous)	696
+Maternity and Midwifery	45
+Mathematical Physics	85
+Mathematics (miscellaneous)	494
+Mechanical Engineering	693
+Mechanics of Materials	402
+Media Technology	77
+Medical Assisting and Transcription	2
+Medical Laboratory Technology	46
+Medical Terminology	2
+Medical and Surgical Nursing	28
+Medicine (miscellaneous)	2519
+Metals and Alloys	179
+Microbiology	191
+Microbiology (medical)	150
+Modeling and Simulation	336
+Molecular Biology	422
+Molecular Medicine	179
+Multidisciplinary	227
+Museology	96
+Music	194
+Nanoscience and Nanotechnology	73
+Nature and Landscape Conservation	230
+Nephrology	91
+Neurology	202
+Neurology (clinical)	404
+Neuropsychology and Physiological Psychology	78
+Neuroscience (miscellaneous)	182
+Nuclear Energy and Engineering	81
+Nuclear and High Energy Physics	90
+Numerical Analysis	92
+Nurse Assisting	7
+Nursing (miscellaneous)	186
+Nutrition and Dietetics	146
+Obstetrics and Gynecology	220
+Occupational Therapy	33
+Ocean Engineering	114
+Oceanography	151
+Oncology	423
+Oncology (nursing)	23
+Ophthalmology	151
+Optometry	16
+Oral Surgery	92
+Organic Chemistry	197
+Organizational Behavior and Human Resource Management	250
+Orthodontics	54
+Orthopedics and Sports Medicine	341
+Otorhinolaryngology	128
+Paleontology	122
+Parasitology	81
+Pathology and Forensic Medicine	215
+Pathophysiology	5
+Pediatrics	29
+Pediatrics, Perinatology and Child Health	352
+Periodontics	37
+Pharmaceutical Science	196
+Pharmacology	336
+Pharmacology (medical)	285
+Pharmacology (nursing)	11
+Pharmacology, Toxicology and Pharmaceutics (miscellaneous)	132
+Pharmacy	53
+Philosophy	810
+Physical Therapy, Sports Therapy and Rehabilitation	263
+Physical and Theoretical Chemistry	188
+Physics and Astronomy (miscellaneous)	314
+Physiology	197
+Physiology (medical)	119
+Plant Science	563
+Podiatry	9
+Political Science and International Relations	678
+Pollution	175
+Polymers and Plastics	169
+Process Chemistry and Technology	76
+Psychiatry and Mental Health	605
+Psychology (miscellaneous)	343
+Public Administration	238
+Public Health, Environmental and Occupational Health	729
+Pulmonary and Respiratory Medicine	165
+Radiation	71
+Radiological and Ultrasound Technology	67
+Radiology, Nuclear Medicine and Imaging	359
+Rehabilitation	175
+Religious Studies	663
+Renewable Energy, Sustainability and the Environment	306
+Reproductive Medicine	101
+Research and Theory	22
+Respiratory Care	5
+Review and Exam Preparation	6
+Reviews and References (medical)	9
+Rheumatology	78
+Safety Research	110
+Safety, Risk, Reliability and Quality	240
+Sensory Systems	43
+Signal Processing	141
+Small Animals	27
+Social Psychology	309
+Social Sciences (miscellaneous)	906
+Social Work	55
+Sociology and Political Science	1436
+Software	396
+Soil Science	169
+Space and Planetary Science	99
+Spectroscopy	75
+Speech and Hearing	69
+Sports Science	123
+Statistical and Nonlinear Physics	62
+Statistics and Probability	296
+Statistics, Probability and Uncertainty	176
+Strategy and Management	500
+Stratigraphy	57
+Structural Biology	49
+Surfaces and Interfaces	63
+Surfaces, Coatings and Films	143
+Surgery	608
+Theoretical Computer Science	129
+Tourism, Leisure and Hospitality Management	149
+Toxicology	132
+Transplantation	56
+Transportation	150
+Urban Studies	280
+Urology	126
+Veterinary (miscellaneous)	247
+Virology	87
+Visual Arts and Performing Arts	675
+Waste Management and Disposal	148
+Water Science and Technology	284
